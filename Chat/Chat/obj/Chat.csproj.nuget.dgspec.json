@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joser\\source\\repos\\Chat\\Chat\\Chat.csproj": {}
+    "C:\\MARODRIGUEZ\\netframework-code\\Chat\\Chat\\Chat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joser\\source\\repos\\Chat\\Chat\\Chat.csproj": {
+    "C:\\MARODRIGUEZ\\netframework-code\\Chat\\Chat\\Chat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joser\\source\\repos\\Chat\\Chat\\Chat.csproj",
+        "projectUniqueName": "C:\\MARODRIGUEZ\\netframework-code\\Chat\\Chat\\Chat.csproj",
         "projectName": "Chat",
-        "projectPath": "C:\\Users\\joser\\source\\repos\\Chat\\Chat\\Chat.csproj",
-        "packagesPath": "C:\\Users\\joser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joser\\source\\repos\\Chat\\Chat\\obj\\",
+        "projectPath": "C:\\MARODRIGUEZ\\netframework-code\\Chat\\Chat\\Chat.csproj",
+        "packagesPath": "C:\\Users\\marodriguez\\.nuget\\packages\\",
+        "outputPath": "C:\\MARODRIGUEZ\\netframework-code\\Chat\\Chat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\joser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -53,6 +53,7 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
